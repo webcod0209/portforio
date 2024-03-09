@@ -272,6 +272,10 @@ header .mask.active {
   font-size: 36px;
   letter-spacing: 0.8rem;
   margin-bottom: 10px;
+  transition: 0.5s;
+}
+.front-page .container .logo__title:hover {
+  opacity: 0.3;
 }
 .front-page .container .logo__url {
   font-size: 10px;
@@ -440,6 +444,10 @@ main .container .logo__title {
   font-size: 36px;
   letter-spacing: 0.8rem;
   margin-bottom: 10px;
+  transition: 0.5s;
+}
+main .container .logo__title:hover {
+  opacity: 0.3;
 }
 main .container .logo__url {
   font-size: 10px;
@@ -581,6 +589,10 @@ main .container .pagination .nav-links .page-numbers li a:hover {
   font-size: 36px;
   letter-spacing: 0.8rem;
   margin-bottom: 10px;
+  transition: 0.5s;
+}
+.contact .container .logo__title:hover {
+  opacity: 0.3;
 }
 .contact .container .logo__url {
   font-size: 10px;
@@ -842,6 +854,10 @@ main .container .pagination .nav-links .page-numbers li a:hover {
   font-size: 36px;
   letter-spacing: 0.8rem;
   margin-bottom: 10px;
+  transition: 0.5s;
+}
+.archive .container .logo__title:hover {
+  opacity: 0.3;
 }
 .archive .container .logo__url {
   font-size: 10px;
