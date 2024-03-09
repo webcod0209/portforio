@@ -36,6 +36,10 @@ $spDesignSize: 640;
       font-size: 36px;
       letter-spacing: .8rem;
       margin-bottom: 10px;
+      transition: .5s;
+      &:hover{
+        opacity: .3;
+      }
     }
 
     &__url{

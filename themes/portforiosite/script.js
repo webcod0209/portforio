@@ -7,6 +7,7 @@ document.addEventListener("scroll" ,function(){
     }
   }
 })
+
 // ドロワーメニュー
 document.getElementById("about").addEventListener("click" ,function(){
   this.classList.toggle("active");
